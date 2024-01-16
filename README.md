@@ -16,3 +16,6 @@ Students are required to get a B or above in the placement courses in order to p
 - Programming with vectors, arrays, and matrices
 - Source control and version control systems
 - Unit testing
+
+## Project 
+Our team created a basic card constructor in Python. You can view the project repository [here](https://github.com/curtisjj42/card-shark).
