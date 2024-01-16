@@ -17,5 +17,9 @@ Students are required to get a B or above in the placement courses in order to p
 - Source control and version control systems
 - Unit testing
 
-## Project 
-Our team created a basic card constructor in Python. You can view the project repository [here](https://github.com/curtisjj42/card-shark).
+## Project: Card-Shark
+Card-Shark is a simple deck constructor Python package that allows developers to easily create and manage decks and cards without having to worry about basic functions. This package will allow you to focus on implmenting game-specific rules and mechanics.
+
+Card-Shark was created as a final project for Introduction to Programming for Data Science course at Northeastern taught by Kylie Bemis. Throughout creating this package we learned to implement class concepts such as linked lists, testing, github and overall coding collaboration.
+
+You can view the project repository [here](https://github.com/curtisjj42/card-shark).
